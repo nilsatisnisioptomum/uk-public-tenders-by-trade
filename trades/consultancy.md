@@ -1,11 +1,10 @@
 # Live UK public tenders: Consultancy
 
-211 open notices matching *consultancy, consultant, advisory, feasibility study*, data through 2026-10-13. Full list: [`data/consultancy.csv`](../data/consultancy.csv). Browsable page: [Consultancy tenders](https://sme-free-tools.pages.dev/uk-tenders/consultancy/?utm_source=github).
+210 open notices matching *consultancy, consultant, advisory, feasibility study*, data through 2026-10-13. Full list: [`data/consultancy.csv`](../data/consultancy.csv). Browsable page: [Consultancy tenders](https://sme-free-tools.pages.dev/uk-tenders/consultancy/?utm_source=github).
 
 | Closes | Title | Buyer | Region | Value |
 |---|---|---|---|---|
 | 2026-10-14 | [Treasury Advisor Services](https://www.find-tender.service.gov.uk/Notice/088419-2026) | Yorkshire Housing Limited | Yorkshire and the Humber | £45,000 |
-| 2026-10-14 | [From Local Shocks to Systemic Impacts: A Multi-hazard, Systems-based View of Physical Climate Risk](https://www.find-tender.service.gov.uk/Notice/087728-2026) | Department for Energy Security & Net Zero | London | £100,000 |
 | 2026-10-14 | [Estates Professional Services Framework Agreement](https://www.find-tender.service.gov.uk/Notice/086461-2026) | Scottish Police Authority | Scotland | £30,000,000 |
 | 2026-10-14 | [Legionella Monitoring and Maintenance Contract](https://www.find-tender.service.gov.uk/Notice/087555-2026) | Sunderland City Council | North East | £415,520 |
 | 2026-10-14 | [Contract for the Provision of a Right to Light Consultant Surveyor](https://www.find-tender.service.gov.uk/Notice/090829-2026) | Northumberland County Council | North East | £72,000 |
@@ -34,6 +33,7 @@
 | 2026-10-19 | [Understanding the V&A's Impact on the Creative Industries](https://www.find-tender.service.gov.uk/Notice/091299-2026) | Victoria and Albert Museum | London | £60,000 |
 | 2026-10-19 | [Grangemouth Infrastructure - Property Consultancy - Site Acquisition Commercial Property Advice](https://www.find-tender.service.gov.uk/Notice/084958-2026) | Scottish Enterprise | Scotland | £200,000 |
 | 2026-10-19 | [On Vehicle Digital Technology (AVL, CCTV, APC, TLP, Comms, On Bus Destination, AVA, Bridge Strike Systems & Ve](https://www.find-tender.service.gov.uk/Notice/085160-2026) | SOUTH WEST SMART APPLICATIONS LIMITED | South West | £100,000,000 |
+| 2026-10-19 | [PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN](https://www.find-tender.service.gov.uk/Notice/088594-2026) | University of Aberdeen | Scotland |  |
 
 Need every match for your own keywords, buyer contacts where published, pipeline notices and recent awards in one CSV and PDF? The [one-off £25 keyword report](https://sme-free-tools.pages.dev/tender-keyword-report/?utm_source=github&utm_campaign=open-data&utm_content=consultancy) is delivered within 24 hours on a weekday, no subscription.
 

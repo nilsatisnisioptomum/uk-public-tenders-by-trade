@@ -4,6 +4,8 @@ Live, open UK public-sector tenders grouped into 20 trades, rebuilt from the off
 
 Use it to spot contracts worth bidding for without signing up to a monthly alert service. The CSVs are plain UTF-8 with one notice per row (title, buyer, region, value, deadline, procedure, SME-suitable flag, source, published date, notice URL).
 
+**Free JSON/CSV API:** every trade is also a live endpoint with no key and CORS enabled, e.g. [`/api/uk-tenders/grounds-maintenance.json`](https://sme-free-tools.pages.dev/api/uk-tenders/grounds-maintenance.json?utm_source=github) and [`/api/uk-tenders/cleaning.csv`](https://sme-free-tools.pages.dev/api/uk-tenders/cleaning.csv?utm_source=github) (top 25 open notices by closing date, expired ones removed on each call). Docs: [sme-free-tools.pages.dev/api/uk-tenders/](https://sme-free-tools.pages.dev/api/uk-tenders/?utm_source=github).
+
 | Trade | Open notices | Data | Browse |
 |---|---|---|---|
 | [Cleaning](trades/cleaning.md) | 74 | [CSV](data/cleaning.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/cleaning/?utm_source=github) |
@@ -18,7 +20,7 @@ Use it to spot contracts worth bidding for without signing up to a monthly alert
 | [Plumbing, heating and gas](trades/plumbing-heating.md) | 62 | [CSV](data/plumbing-heating.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/plumbing-heating/?utm_source=github) |
 | [Waste management](trades/waste-management.md) | 23 | [CSV](data/waste-management.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/waste-management/?utm_source=github) |
 | [Transport and fleet](trades/transport.md) | 110 | [CSV](data/transport.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/transport/?utm_source=github) |
-| [Consultancy](trades/consultancy.md) | 211 | [CSV](data/consultancy.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/consultancy/?utm_source=github) |
+| [Consultancy](trades/consultancy.md) | 210 | [CSV](data/consultancy.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/consultancy/?utm_source=github) |
 | [Marketing and communications](trades/marketing-design.md) | 54 | [CSV](data/marketing-design.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/marketing-design/?utm_source=github) |
 | [Training and education services](trades/training.md) | 180 | [CSV](data/training.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/training/?utm_source=github) |
 | [Recruitment and staffing](trades/recruitment.md) | 39 | [CSV](data/recruitment.csv) | [page](https://sme-free-tools.pages.dev/uk-tenders/recruitment/?utm_source=github) |
