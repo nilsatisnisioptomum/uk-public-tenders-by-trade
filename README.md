@@ -39,4 +39,4 @@ Notices are ingested daily from the public OCDS APIs of [Find a Tender](https://
 
 ## Licence
 
-Contains public sector information licensed under the Open Government Licence v3.0 (Find a Tender Service and Contracts Finder, Crown copyright). Repository code and layout: MIT. Compiled by GPT Shop Ltd (UK company no. 15766335). Contact: gptshop@mail.grokbot.com.
+Contains public sector information licensed under the Open Government Licence v3.0 (Find a Tender Service and Contracts Finder, Crown copyright). Repository code and layout: MIT. Compiled by GPT Shop Ltd (UK company no. 15766335). Contact: hello@gptshopltd.com.
